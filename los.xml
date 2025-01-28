@@ -24,6 +24,7 @@
   <project path="external/expat" name="android_external_expat" groups="pdk" remote="lineage" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" remote="lineage" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+  <project path="external/giflib" name="android_external_giflib" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/htop" name="android_external_htop" remote="lineage" />
   <project path="external/libncurses" name="android_external_libncurses" remote="lineage" />
