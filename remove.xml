@@ -69,6 +69,7 @@
   <remove-project name="platform/external/webp" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/sonivox" />
+  <remove-project name="platform/external/skia" />
   <remove-project name="platform/external/zstd" />
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
