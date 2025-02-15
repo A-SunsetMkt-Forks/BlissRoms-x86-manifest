@@ -8,7 +8,6 @@
     <remove-project name="platform_build_make" />
     <remove-project name="platform/development" />
     <remove-project name="platform_bootable_recovery" />
-    <remove-project name="platform_device_bliss_sepolicy" />
     <remove-project name="platform_device_qcom_sepolicy" />
     <remove-project name="platform_device_qcom_sepolicy_vndr" />
     <remove-project name="platform/external/angle" />
