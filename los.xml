@@ -24,6 +24,7 @@
   <project path="external/expat" name="android_external_expat" groups="pdk" remote="lineage" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" groups="pdk" remote="lineage" />
   <project path="frameworks/minikin" name="android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
+  <project path="external/giflib" name="android_external_giflib" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk" remote="lineage" />
   <project path="external/htop" name="android_external_htop" remote="lineage" />
   <project path="external/libncurses" name="android_external_libncurses" remote="lineage" />
@@ -59,6 +60,7 @@
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" groups="qcom,pdk-qcom" remote="lineage" />
   <!-- <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" groups="pdk-fs" remote="lineage" /> -->
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" groups="pdk-fs" remote="lineage" />
+  <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" remote="lineage" />
   <project path="packages/apps/Etar" name="android_packages_apps_Etar" remote="lineage" />
   <project path="packages/apps/ExactCalculator" name="android_packages_apps_ExactCalculator" remote="lineage" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" groups="pdk-fs" remote="lineage" />
@@ -195,6 +197,7 @@
   
   <!-- ASB -->
   <project path="external/freetype" name="android_external_freetype" groups="pdk" remote="lineage" />
+  <project path="external/skia" name="android_external_skia" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/sonivox" name="android_external_sonivox" groups="pdk" remote="lineage" />
   <project path="packages/apps/Car/Settings" name="android_packages_apps_Car_Settings" groups="pdk-fs" remote="lineage" />
   <project path="packages/apps/Traceur" name="android_packages_apps_Traceur" groups="pdk-fs" remote="lineage" />
